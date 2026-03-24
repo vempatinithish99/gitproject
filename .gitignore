@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*~
+
+# Build folders
+build/
+dist/
+
+# Python (since you're learning FastAPI)
+__pycache__/
+*.pyc
+
+# Environment files (IMPORTANT)
+.env
